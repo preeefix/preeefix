@@ -5,4 +5,4 @@ Prior Employment:
   - Walmart Labs (2017 - 2019)
   - Contractor Gigs
 
-I'm a volunteer for @itdrc, assisting with both backend development, and field deployments.
+I'm a volunteer for [ITDRC](https://www.itdrc.org/), assisting with both backend development, and field deployments.
