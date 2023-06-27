@@ -1,5 +1,8 @@
-Heyo, I'm @crdnl , an engineer, and master distruction artist.
+Heyo, I'm @preeefix, an engineer and master distruction artist.
 
-Used to work for Google and Walmart Labs.
+Prior Employment:
+  - Google (2019 - 2023)
+  - Walmart Labs (2017 - 2019)
+  - Contractor Gigs
 
-GLHF and feel free to @ me on interesting issues!
+I'm a volunteer for @itdrc, assisting with both backend development, and field deployments.
